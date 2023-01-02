@@ -157,3 +157,4 @@ ElasticHelperService = __decorate([
         search_1.ProductSearchDatabase])
 ], ElasticHelperService);
 exports.ElasticHelperService = ElasticHelperService;
+//# sourceMappingURL=elastic.helper.js.map

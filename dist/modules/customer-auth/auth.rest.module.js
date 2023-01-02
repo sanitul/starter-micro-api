@@ -45,3 +45,4 @@ CustomerAuthModule = __decorate([
     })
 ], CustomerAuthModule);
 exports.CustomerAuthModule = CustomerAuthModule;
+//# sourceMappingURL=auth.rest.module.js.map

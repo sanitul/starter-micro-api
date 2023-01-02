@@ -61,3 +61,4 @@ __decorate([
     __metadata("design:type", Array)
 ], AddToWishlistErrorResponseDto.prototype, "errors", void 0);
 exports.AddToWishlistErrorResponseDto = AddToWishlistErrorResponseDto;
+//# sourceMappingURL=addToWishlist.dto.js.map

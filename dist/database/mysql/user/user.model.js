@@ -82,3 +82,4 @@ UserModel = __decorate([
     })
 ], UserModel);
 exports.default = UserModel;
+//# sourceMappingURL=user.model.js.map

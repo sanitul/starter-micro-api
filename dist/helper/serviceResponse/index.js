@@ -27,3 +27,4 @@ ServiceResponse = __decorate([
     (0, common_1.Injectable)()
 ], ServiceResponse);
 exports.ServiceResponse = ServiceResponse;
+//# sourceMappingURL=index.js.map

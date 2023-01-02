@@ -18,3 +18,4 @@ __exportStar(require("./getTags.dto"), exports);
 __exportStar(require("./createTag.dto"), exports);
 __exportStar(require("./getTag.dto"), exports);
 __exportStar(require("./updateTag.dto"), exports);
+//# sourceMappingURL=index.js.map

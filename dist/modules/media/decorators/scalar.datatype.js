@@ -38,3 +38,4 @@ Upload = __decorate([
     (0, graphql_1.Scalar)('Upload')
 ], Upload);
 exports.Upload = Upload;
+//# sourceMappingURL=scalar.datatype.js.map

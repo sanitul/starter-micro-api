@@ -13,7 +13,6 @@ exports.ProductService = void 0;
 const common_1 = require("@nestjs/common");
 const helper_interface_1 = require("../../../helper/helper.interface");
 const repositories_1 = require("../repositories");
-const database_1 = require("../../../config/database");
 let ProductService = class ProductService {
     constructor(productRepo, helper) {
         this.productRepo = productRepo;
@@ -176,14 +175,12 @@ let ProductService = class ProductService {
     async getCustomerProductsByCondition(condition) {
         const { skip, limit, slug, orderBy, maxPrice, minPrice } = condition;
         const query = this.generateSearchQuery(condition);
-        console.log('error getCustomerProductsByCondition', database_1.dbConfig.mongodb.URI);
         const products = slug
             ? await this.productRepo.getAllConditionalProducts(Object.assign(Object.assign({}, query), { 'info.published': true }), { maxPrice, minPrice }, slug, orderBy, skip, limit)
             : await this.productRepo.findAllProducts(Object.assign(Object.assign({}, query), { 'info.published': true }), skip, limit, { maxPrice, minPrice }, orderBy);
         const productsCount = slug
             ? await this.productRepo.getAllConditionalProducts(Object.assign(Object.assign({}, query), { 'info.published': true }), { maxPrice, minPrice }, slug, orderBy)
             : await this.productRepo.findAllProducts(Object.assign(Object.assign({}, query), { 'info.published': true }), null, null, { maxPrice, minPrice }, orderBy);
-        console.log('productsCount');
         if (!products)
             return this.helper.serviceResponse.errorResponse("CAN_NOT_GET_PRODUCTS", null, common_1.HttpStatus.BAD_REQUEST);
         const manufacturers = new Set();
@@ -233,3 +230,4 @@ ProductService = __decorate([
     __metadata("design:paramtypes", [repositories_1.ProductRepository, helper_interface_1.Helper])
 ], ProductService);
 exports.ProductService = ProductService;
+//# sourceMappingURL=index.js.map

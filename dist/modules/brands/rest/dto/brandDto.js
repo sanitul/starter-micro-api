@@ -37,3 +37,4 @@ __decorate([
     __metadata("design:type", metaDto_1.MetaDto)
 ], BrandDto.prototype, "meta", void 0);
 exports.BrandDto = BrandDto;
+//# sourceMappingURL=brandDto.js.map

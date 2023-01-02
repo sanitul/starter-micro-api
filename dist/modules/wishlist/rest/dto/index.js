@@ -21,3 +21,4 @@ __exportStar(require("./deleteWishlist.dto"), exports);
 __exportStar(require("./deleteAllWishlistItems.dto"), exports);
 __exportStar(require("./deleteWishlistItem.dto"), exports);
 __exportStar(require("./updateWishlistItem.dto"), exports);
+//# sourceMappingURL=index.js.map

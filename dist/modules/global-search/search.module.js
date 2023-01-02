@@ -39,3 +39,4 @@ SearchModule = __decorate([
     __metadata("design:paramtypes", [elastic_helper_1.ElasticHelperService])
 ], SearchModule);
 exports.SearchModule = SearchModule;
+//# sourceMappingURL=search.module.js.map

@@ -14,3 +14,4 @@ ICompareDatabase = __decorate([
     (0, common_1.Injectable)()
 ], ICompareDatabase);
 exports.ICompareDatabase = ICompareDatabase;
+//# sourceMappingURL=compare.db.interface.js.map

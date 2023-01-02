@@ -4,3 +4,4 @@ exports.Brand = void 0;
 class Brand {
 }
 exports.Brand = Brand;
+//# sourceMappingURL=brand.js.map

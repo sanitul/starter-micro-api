@@ -19,3 +19,4 @@ exports.UpdateProduct = UpdateProduct;
 class SearchCondition {
 }
 exports.SearchCondition = SearchCondition;
+//# sourceMappingURL=product.js.map

@@ -118,3 +118,4 @@ ManufacturerService = __decorate([
         helper_interface_1.Helper])
 ], ManufacturerService);
 exports.ManufacturerService = ManufacturerService;
+//# sourceMappingURL=manufacturer.service.js.map

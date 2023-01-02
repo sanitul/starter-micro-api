@@ -39,3 +39,4 @@ __decorate([
     __metadata("design:type", brandDto_1.BrandDto)
 ], GetBrandByIdSuccessResponseDto.prototype, "data", void 0);
 exports.GetBrandByIdSuccessResponseDto = GetBrandByIdSuccessResponseDto;
+//# sourceMappingURL=getBrandByIdDto.js.map

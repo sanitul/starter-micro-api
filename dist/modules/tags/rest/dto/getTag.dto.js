@@ -53,3 +53,4 @@ __decorate([
     __metadata("design:type", tags_dto_1.TagDto)
 ], GetTagSuccessResponseDto.prototype, "data", void 0);
 exports.GetTagSuccessResponseDto = GetTagSuccessResponseDto;
+//# sourceMappingURL=getTag.dto.js.map

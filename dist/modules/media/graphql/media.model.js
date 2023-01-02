@@ -35,3 +35,4 @@ UploadFileResponse = __decorate([
     (0, graphql_1.ObjectType)()
 ], UploadFileResponse);
 exports.UploadFileResponse = UploadFileResponse;
+//# sourceMappingURL=media.model.js.map

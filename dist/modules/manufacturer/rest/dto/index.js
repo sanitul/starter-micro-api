@@ -18,3 +18,4 @@ __exportStar(require("./createManufacturer.dto"), exports);
 __exportStar(require("./updateManufacturer.dto"), exports);
 __exportStar(require("./deleteManufacturer.dto"), exports);
 __exportStar(require("./manufacturer.dto"), exports);
+//# sourceMappingURL=index.js.map

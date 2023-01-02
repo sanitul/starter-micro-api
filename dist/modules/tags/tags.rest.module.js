@@ -29,3 +29,4 @@ TagsModule = __decorate([
     })
 ], TagsModule);
 exports.TagsModule = TagsModule;
+//# sourceMappingURL=tags.rest.module.js.map

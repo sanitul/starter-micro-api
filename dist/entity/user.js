@@ -10,3 +10,4 @@ exports.User = User;
 class ChangePassword {
 }
 exports.ChangePassword = ChangePassword;
+//# sourceMappingURL=user.js.map

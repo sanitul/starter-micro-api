@@ -7,3 +7,4 @@ exports.Tag = Tag;
 class UpdateTagRequest {
 }
 exports.UpdateTagRequest = UpdateTagRequest;
+//# sourceMappingURL=tags.js.map

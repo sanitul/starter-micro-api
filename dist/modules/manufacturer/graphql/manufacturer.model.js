@@ -201,3 +201,4 @@ AllManufacturersResponse = __decorate([
     (0, graphql_1.ObjectType)({ description: 'Get all manufacturers response' })
 ], AllManufacturersResponse);
 exports.AllManufacturersResponse = AllManufacturersResponse;
+//# sourceMappingURL=manufacturer.model.js.map

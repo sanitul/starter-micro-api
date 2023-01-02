@@ -70,3 +70,4 @@ OrderAdminService = __decorate([
     __metadata("design:paramtypes", [repositories_1.OrderRepository])
 ], OrderAdminService);
 exports.OrderAdminService = OrderAdminService;
+//# sourceMappingURL=admin.service.js.map

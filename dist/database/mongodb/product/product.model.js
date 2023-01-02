@@ -107,3 +107,4 @@ ProductSchema.index({
 }, { name: 'search' });
 const ProductModel = (0, mongoose_1.model)('product', ProductSchema);
 exports.ProductModel = ProductModel;
+//# sourceMappingURL=product.model.js.map

@@ -21,3 +21,4 @@ async function connectToDatabase(db) {
     }
 }
 exports.connectToDatabase = connectToDatabase;
+//# sourceMappingURL=database.init.js.map

@@ -51,3 +51,4 @@ const ManufacturerSchema = new mongoose_1.Schema({
 });
 const ManufacturerModel = (0, mongoose_1.model)('manufacturer', ManufacturerSchema);
 exports.ManufacturerModel = ManufacturerModel;
+//# sourceMappingURL=manufacturer.model.js.map

@@ -52,3 +52,4 @@ __decorate([
     __metadata("design:type", Array)
 ], GetAllBrandsErrorResponseDto.prototype, "errors", void 0);
 exports.GetAllBrandsErrorResponseDto = GetAllBrandsErrorResponseDto;
+//# sourceMappingURL=getAllBrandsDto.js.map

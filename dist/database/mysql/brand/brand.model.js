@@ -36,3 +36,4 @@ BrandModel = __decorate([
     })
 ], BrandModel);
 exports.default = BrandModel;
+//# sourceMappingURL=brand.model.js.map

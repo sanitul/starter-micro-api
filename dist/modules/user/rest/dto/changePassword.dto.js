@@ -76,3 +76,4 @@ __decorate([
     __metadata("design:type", Message)
 ], ChangePasswordSuccessResponseDto.prototype, "data", void 0);
 exports.ChangePasswordSuccessResponseDto = ChangePasswordSuccessResponseDto;
+//# sourceMappingURL=changePassword.dto.js.map

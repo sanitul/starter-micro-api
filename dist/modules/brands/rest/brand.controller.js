@@ -205,3 +205,4 @@ BrandController = __decorate([
     __metadata("design:paramtypes", [index_1.BrandService])
 ], BrandController);
 exports.BrandController = BrandController;
+//# sourceMappingURL=brand.controller.js.map

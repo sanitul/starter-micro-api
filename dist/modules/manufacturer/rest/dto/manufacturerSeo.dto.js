@@ -40,3 +40,4 @@ __decorate([
     __metadata("design:type", String)
 ], ManufacturerSeoDto.prototype, "SEFN", void 0);
 exports.ManufacturerSeoDto = ManufacturerSeoDto;
+//# sourceMappingURL=manufacturerSeo.dto.js.map

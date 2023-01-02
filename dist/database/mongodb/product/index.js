@@ -31,29 +31,9 @@ let ProductDatabase = class ProductDatabase {
             .lean();
     }
     async getAllConditionalProducts(query, price, slug, orderBy, skip, limit) {
-        console.log('Hiii');
-        category_model_1.CategoryModel.find({
-            $or: [{ slug: slug }, { 'ancestors.slug': slug }],
-        })
-            .lean()
-            .then((data) => {
-            console.log('data');
-        })
-            .catch((error) => {
-            console.log('eee');
-        });
-        try {
-            const categories = await category_model_1.CategoryModel.find({
-                $or: [{ slug: slug }, { 'ancestors.slug': slug }],
-            }).lean();
-        }
-        catch (error) {
-            console.log('big error');
-        }
         const categories = await category_model_1.CategoryModel.find({
             $or: [{ slug: slug }, { 'ancestors.slug': slug }],
         }).lean();
-        console.log('Hiii problem');
         const categoryIdList = categories &&
             categories.length &&
             categories.map((category) => {
@@ -143,3 +123,4 @@ ProductDatabase = __decorate([
     (0, common_1.Injectable)()
 ], ProductDatabase);
 exports.ProductDatabase = ProductDatabase;
+//# sourceMappingURL=index.js.map

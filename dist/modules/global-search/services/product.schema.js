@@ -64,3 +64,4 @@ exports.productSearchSchema = {
         type: 'nested',
     },
 };
+//# sourceMappingURL=product.schema.js.map

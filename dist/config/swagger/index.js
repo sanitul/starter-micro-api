@@ -16,3 +16,4 @@ exports.swaggerConfig = {
     },
     apiPrefix: SWAGGER_API_PREFIX || 'api',
 };
+//# sourceMappingURL=index.js.map

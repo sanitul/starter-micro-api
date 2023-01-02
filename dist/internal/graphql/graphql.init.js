@@ -26,3 +26,4 @@ const GraphqlInitModule = () => {
     ];
 };
 exports.GraphqlInitModule = GraphqlInitModule;
+//# sourceMappingURL=graphql.init.js.map

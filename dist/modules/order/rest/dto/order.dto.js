@@ -94,3 +94,4 @@ __decorate([
     __metadata("design:type", String)
 ], OrderDto.prototype, "paypalRedirectUrl", void 0);
 exports.OrderDto = OrderDto;
+//# sourceMappingURL=order.dto.js.map

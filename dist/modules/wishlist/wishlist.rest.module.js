@@ -29,3 +29,4 @@ WishListModule = __decorate([
     })
 ], WishListModule);
 exports.WishListModule = WishListModule;
+//# sourceMappingURL=wishlist.rest.module.js.map

@@ -30,3 +30,4 @@ const CompareSchema = new mongoose_1.Schema({
 });
 const CompareModel = (0, mongoose_1.model)('compare', CompareSchema);
 exports.CompareModel = CompareModel;
+//# sourceMappingURL=compare.model.js.map

@@ -80,3 +80,4 @@ __decorate([
     __metadata("design:type", ManufacturersDataDto)
 ], GetManufacturersSuccessResponseDto.prototype, "data", void 0);
 exports.GetManufacturersSuccessResponseDto = GetManufacturersSuccessResponseDto;
+//# sourceMappingURL=getManufacturers.dto.js.map

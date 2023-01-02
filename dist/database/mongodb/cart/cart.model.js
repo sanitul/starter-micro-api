@@ -23,3 +23,4 @@ const CartSchema = new mongoose_1.Schema({
 });
 const CartModel = (0, mongoose_1.model)('cart', CartSchema);
 exports.CartModel = CartModel;
+//# sourceMappingURL=cart.model.js.map

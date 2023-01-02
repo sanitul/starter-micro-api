@@ -159,3 +159,4 @@ TagsController = __decorate([
     __metadata("design:paramtypes", [services_1.TagsService])
 ], TagsController);
 exports.TagsController = TagsController;
+//# sourceMappingURL=index.js.map

@@ -51,3 +51,4 @@ __decorate([
     __metadata("design:type", Array)
 ], deleteWishlistItemErrorResponseDto.prototype, "errors", void 0);
 exports.deleteWishlistItemErrorResponseDto = deleteWishlistItemErrorResponseDto;
+//# sourceMappingURL=deleteWishlistItem.dto.js.map

@@ -183,3 +183,4 @@ BrandResponse = __decorate([
     (0, graphql_1.ObjectType)()
 ], BrandResponse);
 exports.BrandResponse = BrandResponse;
+//# sourceMappingURL=brand.model.js.map

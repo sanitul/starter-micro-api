@@ -30,3 +30,4 @@ TagsModule = __decorate([
     })
 ], TagsModule);
 exports.TagsModule = TagsModule;
+//# sourceMappingURL=tags.graphql.module.js.map

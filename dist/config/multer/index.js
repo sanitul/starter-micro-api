@@ -7,3 +7,4 @@ exports.multerConfig = {
     maxFileSize: Number(MULTER_FILE_SIZE) || 3 * 1024 * 1024,
     mimeTypes: MULTER_FILE_EXTENSIONS || ['image/png', 'image/jpeg', 'image/svg+xml', 'image/jpg', 'image/gif']
 };
+//# sourceMappingURL=index.js.map

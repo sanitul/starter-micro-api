@@ -30,3 +30,4 @@ MediaService = __decorate([
     __metadata("design:paramtypes", [helper_interface_1.Helper])
 ], MediaService);
 exports.MediaService = MediaService;
+//# sourceMappingURL=index.js.map

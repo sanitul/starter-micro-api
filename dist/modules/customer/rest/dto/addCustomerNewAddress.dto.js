@@ -47,3 +47,4 @@ __decorate([
     __metadata("design:type", customer_dto_1.CustomerInformationDto)
 ], AddCustomerNewAddressSuccessResponseDto.prototype, "data", void 0);
 exports.AddCustomerNewAddressSuccessResponseDto = AddCustomerNewAddressSuccessResponseDto;
+//# sourceMappingURL=addCustomerNewAddress.dto.js.map

@@ -14,3 +14,4 @@ ICustomerDatabase = __decorate([
     (0, common_1.Injectable)()
 ], ICustomerDatabase);
 exports.ICustomerDatabase = ICustomerDatabase;
+//# sourceMappingURL=customer.database.interface.js.map

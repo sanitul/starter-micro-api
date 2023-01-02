@@ -41,3 +41,4 @@ AuthModule = __decorate([
     })
 ], AuthModule);
 exports.AuthModule = AuthModule;
+//# sourceMappingURL=auth.rest.module.js.map

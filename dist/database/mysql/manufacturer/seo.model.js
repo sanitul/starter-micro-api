@@ -44,3 +44,4 @@ ManufacturerSeoModel = __decorate([
     })
 ], ManufacturerSeoModel);
 exports.default = ManufacturerSeoModel;
+//# sourceMappingURL=seo.model.js.map

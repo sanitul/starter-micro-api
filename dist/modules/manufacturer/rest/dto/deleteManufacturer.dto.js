@@ -60,3 +60,4 @@ __decorate([
     __metadata("design:type", ManufacturerDataDto)
 ], DeleteManufacturerSuccessResponseDto.prototype, "data", void 0);
 exports.DeleteManufacturerSuccessResponseDto = DeleteManufacturerSuccessResponseDto;
+//# sourceMappingURL=deleteManufacturer.dto.js.map

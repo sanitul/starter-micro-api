@@ -18,3 +18,4 @@ ManufacturerMiddleware = __decorate([
     (0, common_1.Injectable)()
 ], ManufacturerMiddleware);
 exports.ManufacturerMiddleware = ManufacturerMiddleware;
+//# sourceMappingURL=manufacturer.middleware.js.map

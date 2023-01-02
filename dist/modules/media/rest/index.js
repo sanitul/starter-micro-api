@@ -67,3 +67,4 @@ MediaController = __decorate([
     __metadata("design:paramtypes", [services_1.MediaService])
 ], MediaController);
 exports.MediaController = MediaController;
+//# sourceMappingURL=index.js.map

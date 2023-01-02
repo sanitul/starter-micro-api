@@ -22,3 +22,4 @@ const TagsSchema = new mongoose_1.Schema({
 });
 const TagsModel = (0, mongoose_1.model)('tags', TagsSchema);
 exports.TagsModel = TagsModel;
+//# sourceMappingURL=tags.model.js.map

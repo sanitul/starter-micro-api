@@ -200,3 +200,4 @@ ChangePasswordResponse = __decorate([
     (0, graphql_1.ObjectType)()
 ], ChangePasswordResponse);
 exports.ChangePasswordResponse = ChangePasswordResponse;
+//# sourceMappingURL=user.model.js.map

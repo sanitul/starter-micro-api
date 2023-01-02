@@ -85,3 +85,4 @@ __decorate([
     __metadata("design:type", Number)
 ], OrderProductDto.prototype, "totalPrice", void 0);
 exports.OrderProductDto = OrderProductDto;
+//# sourceMappingURL=OrderProduct.dto.js.map

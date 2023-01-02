@@ -51,3 +51,4 @@ MetaModel = __decorate([
     })
 ], MetaModel);
 exports.default = MetaModel;
+//# sourceMappingURL=meta.model.js.map

@@ -106,3 +106,4 @@ ManufacturerResolver = __decorate([
         helper_interface_1.Helper])
 ], ManufacturerResolver);
 exports.ManufacturerResolver = ManufacturerResolver;
+//# sourceMappingURL=manufacturer.resolver.js.map

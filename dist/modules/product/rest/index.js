@@ -45,7 +45,6 @@ let ProductController = class ProductController {
         return Object.assign({ code }, response);
     }
     async getCustomerProduct(params, res) {
-        console.log('sanid');
         const _a = await this.productService.getCustomerProduct(params.productId), { code } = _a, response = __rest(_a, ["code"]);
         res.status(code);
         return Object.assign({ code }, response);
@@ -391,3 +390,4 @@ ProductController = __decorate([
     __metadata("design:paramtypes", [services_1.ProductService])
 ], ProductController);
 exports.ProductController = ProductController;
+//# sourceMappingURL=index.js.map

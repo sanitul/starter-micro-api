@@ -648,3 +648,4 @@ ProductCount = __decorate([
     (0, graphql_1.ObjectType)()
 ], ProductCount);
 exports.ProductCount = ProductCount;
+//# sourceMappingURL=product.model.js.map

@@ -30,3 +30,4 @@ ManufacturerModule = __decorate([
     })
 ], ManufacturerModule);
 exports.ManufacturerModule = ManufacturerModule;
+//# sourceMappingURL=manufacturer.graphql.module.js.map

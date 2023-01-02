@@ -60,3 +60,4 @@ __decorate([
     __metadata("design:type", Array)
 ], CreateBrandErrorResponseDto.prototype, "errors", void 0);
 exports.CreateBrandErrorResponseDto = CreateBrandErrorResponseDto;
+//# sourceMappingURL=createBrandDto.js.map

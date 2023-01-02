@@ -18,3 +18,4 @@ LoggerMiddleware = __decorate([
     (0, common_1.Injectable)()
 ], LoggerMiddleware);
 exports.LoggerMiddleware = LoggerMiddleware;
+//# sourceMappingURL=logger.middleware.js.map

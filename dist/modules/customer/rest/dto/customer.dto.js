@@ -104,3 +104,4 @@ __decorate([
     __metadata("design:type", Array)
 ], CustomerInformationDto.prototype, "addresses", void 0);
 exports.CustomerInformationDto = CustomerInformationDto;
+//# sourceMappingURL=customer.dto.js.map

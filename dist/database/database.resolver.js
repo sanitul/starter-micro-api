@@ -69,3 +69,4 @@ function ResolveDatabaseDependency(className) {
     }
 }
 exports.ResolveDatabaseDependency = ResolveDatabaseDependency;
+//# sourceMappingURL=database.resolver.js.map

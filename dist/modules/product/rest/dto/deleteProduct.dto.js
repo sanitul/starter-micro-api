@@ -61,3 +61,4 @@ __decorate([
     __metadata("design:type", DeleteProductMessage)
 ], DeleteProductSuccessResponseDto.prototype, "data", void 0);
 exports.DeleteProductSuccessResponseDto = DeleteProductSuccessResponseDto;
+//# sourceMappingURL=deleteProduct.dto.js.map

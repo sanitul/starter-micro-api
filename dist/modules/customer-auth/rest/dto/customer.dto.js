@@ -30,3 +30,4 @@ __decorate([
     __metadata("design:type", String)
 ], CustomerDto.prototype, "email", void 0);
 exports.CustomerDto = CustomerDto;
+//# sourceMappingURL=customer.dto.js.map

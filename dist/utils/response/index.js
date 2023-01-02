@@ -10,3 +10,4 @@ function errorResponse(error, errors = null, code = common_1.HttpStatus.NOT_FOUN
     return { error, errors, code };
 }
 exports.errorResponse = errorResponse;
+//# sourceMappingURL=index.js.map

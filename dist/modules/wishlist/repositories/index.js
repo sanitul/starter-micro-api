@@ -57,3 +57,4 @@ WishListRepository = __decorate([
     __metadata("design:paramtypes", [wishList_database_interface_1.IWishListDatabase])
 ], WishListRepository);
 exports.WishListRepository = WishListRepository;
+//# sourceMappingURL=index.js.map

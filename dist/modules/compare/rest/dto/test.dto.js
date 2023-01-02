@@ -48,3 +48,4 @@ __decorate([
     __metadata("design:type", Array)
 ], CompareDataDto.prototype, "items", void 0);
 exports.CompareDataDto = CompareDataDto;
+//# sourceMappingURL=test.dto.js.map

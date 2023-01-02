@@ -14,3 +14,4 @@ IBrandDatabase = __decorate([
     (0, common_1.Injectable)()
 ], IBrandDatabase);
 exports.IBrandDatabase = IBrandDatabase;
+//# sourceMappingURL=brand.database.interface.js.map

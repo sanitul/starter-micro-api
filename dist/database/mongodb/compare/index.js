@@ -106,3 +106,4 @@ class CompareDatabase {
     }
 }
 exports.CompareDatabase = CompareDatabase;
+//# sourceMappingURL=index.js.map

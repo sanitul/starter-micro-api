@@ -11,3 +11,4 @@ exports.coreConfig = {
     baseUrl: BASE_URL || 'http://localhost:3000',
     graphqlPathPrefix: GRAPHQL_PATH_PREFIX || 'graphql',
 };
+//# sourceMappingURL=index.js.map

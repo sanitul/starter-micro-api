@@ -29,3 +29,4 @@ CategoryModule = __decorate([
     })
 ], CategoryModule);
 exports.CategoryModule = CategoryModule;
+//# sourceMappingURL=category.rest.module.js.map

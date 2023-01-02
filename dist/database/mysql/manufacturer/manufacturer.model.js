@@ -53,3 +53,4 @@ ManufacturerModel = __decorate([
     })
 ], ManufacturerModel);
 exports.default = ManufacturerModel;
+//# sourceMappingURL=manufacturer.model.js.map

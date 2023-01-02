@@ -188,3 +188,4 @@ WishListController = __decorate([
     __metadata("design:paramtypes", [services_1.WishListService])
 ], WishListController);
 exports.WishListController = WishListController;
+//# sourceMappingURL=index.js.map

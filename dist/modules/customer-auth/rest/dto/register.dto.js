@@ -98,3 +98,4 @@ __decorate([
     __metadata("design:type", CreateCustomerMessage)
 ], CreateCustomerSuccessResponseDto.prototype, "data", void 0);
 exports.CreateCustomerSuccessResponseDto = CreateCustomerSuccessResponseDto;
+//# sourceMappingURL=register.dto.js.map

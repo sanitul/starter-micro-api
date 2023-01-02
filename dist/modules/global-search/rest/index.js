@@ -70,3 +70,4 @@ SearchController = __decorate([
     __metadata("design:paramtypes", [elastic_service_1.ElasticService])
 ], SearchController);
 exports.SearchController = SearchController;
+//# sourceMappingURL=index.js.map

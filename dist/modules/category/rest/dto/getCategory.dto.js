@@ -58,3 +58,4 @@ __decorate([
     __metadata("design:type", Array)
 ], getCategoryErrorResponseDto.prototype, "errors", void 0);
 exports.getCategoryErrorResponseDto = getCategoryErrorResponseDto;
+//# sourceMappingURL=getCategory.dto.js.map

@@ -39,3 +39,4 @@ __decorate([
     __metadata("design:type", Array)
 ], getUserWishlistErrorResponseDto.prototype, "errors", void 0);
 exports.getUserWishlistErrorResponseDto = getUserWishlistErrorResponseDto;
+//# sourceMappingURL=getUserWishlist.dto.js.map

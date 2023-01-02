@@ -62,3 +62,4 @@ MediaResolver = __decorate([
     (0, graphql_1.Resolver)()
 ], MediaResolver);
 exports.MediaResolver = MediaResolver;
+//# sourceMappingURL=media.resolver.js.map

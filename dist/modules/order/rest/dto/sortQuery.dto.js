@@ -26,3 +26,4 @@ __decorate([
     __metadata("design:type", String)
 ], OrderSortQueryDto.prototype, "sortType", void 0);
 exports.OrderSortQueryDto = OrderSortQueryDto;
+//# sourceMappingURL=sortQuery.dto.js.map

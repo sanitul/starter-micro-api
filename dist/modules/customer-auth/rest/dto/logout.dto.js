@@ -30,3 +30,4 @@ __decorate([
     __metadata("design:type", LogoutSuccessResponseMessage)
 ], CustomerLogoutSuccessResponseDto.prototype, "data", void 0);
 exports.CustomerLogoutSuccessResponseDto = CustomerLogoutSuccessResponseDto;
+//# sourceMappingURL=logout.dto.js.map

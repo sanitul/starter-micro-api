@@ -47,3 +47,4 @@ ManufacturerDatabase = __decorate([
     (0, common_1.Injectable)()
 ], ManufacturerDatabase);
 exports.ManufacturerDatabase = ManufacturerDatabase;
+//# sourceMappingURL=index.js.map

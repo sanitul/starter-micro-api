@@ -5,7 +5,7 @@ const { DB, MONGODB_URI, MYSQL_DB_HOST, MYSQL_DB_PORT, MYSQL_DB_USER, MYSQL_DB_P
 exports.dbConfig = {
     mongodb: {
         URI: MONGODB_URI ||
-            'mongodb+srv://vercel-admin-user:3PfcwQSKNsAFyqjf@cluster0.sfg6ttg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
+            'mongodb+srv://vercel-admin-user:uCp7zpba5QNJe0Eo@cluster0.0hmmqvv.mongodb.net/bs-commerce-dev?retryWrites=true&w=majority',
     },
     mysql: {
         username: MYSQL_DB_USER || 'root',
@@ -17,3 +17,4 @@ exports.dbConfig = {
     },
     db: DB || 'MONGO',
 };
+//# sourceMappingURL=index.js.map

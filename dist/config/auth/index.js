@@ -8,3 +8,4 @@ exports.authConfig = {
     jwt_key: JWT_SECRET_KEY || '@CTBS23@!46',
     cookiesMaxAge: parseInt(COOKIESMAXAGE) || 60 * 60 * 24 * 10,
 };
+//# sourceMappingURL=index.js.map

@@ -26,3 +26,4 @@ BrandModule = __decorate([
     })
 ], BrandModule);
 exports.BrandModule = BrandModule;
+//# sourceMappingURL=brand.rest.module.js.map

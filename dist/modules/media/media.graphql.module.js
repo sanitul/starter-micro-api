@@ -21,3 +21,4 @@ MediaModule = __decorate([
     })
 ], MediaModule);
 exports.MediaModule = MediaModule;
+//# sourceMappingURL=media.graphql.module.js.map

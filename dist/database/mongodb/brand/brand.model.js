@@ -52,3 +52,4 @@ const BrandSchema = new mongoose_1.Schema({
 });
 const BrandModel = (0, mongoose_1.model)('brand', BrandSchema);
 exports.BrandModel = BrandModel;
+//# sourceMappingURL=brand.model.js.map

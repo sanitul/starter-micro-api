@@ -7,3 +7,4 @@ exports.WishList = WishList;
 class WishlistItem {
 }
 exports.WishlistItem = WishlistItem;
+//# sourceMappingURL=wishList.js.map

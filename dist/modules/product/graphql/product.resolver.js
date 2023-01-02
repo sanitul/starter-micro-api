@@ -181,3 +181,4 @@ ProductResolver = __decorate([
     __metadata("design:paramtypes", [services_1.ProductService, helper_interface_1.Helper])
 ], ProductResolver);
 exports.ProductResolver = ProductResolver;
+//# sourceMappingURL=product.resolver.js.map

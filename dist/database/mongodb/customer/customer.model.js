@@ -70,3 +70,4 @@ const CustomerSchema = new mongoose_1.Schema({
 });
 const CustomerModel = (0, mongoose_1.model)('customer', CustomerSchema);
 exports.CustomerModel = CustomerModel;
+//# sourceMappingURL=customer.model.js.map

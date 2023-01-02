@@ -14,3 +14,4 @@ ICategoryDatabase = __decorate([
     (0, common_1.Injectable)()
 ], ICategoryDatabase);
 exports.ICategoryDatabase = ICategoryDatabase;
+//# sourceMappingURL=category.database.interface.js.map

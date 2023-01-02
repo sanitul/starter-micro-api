@@ -30,3 +30,4 @@ TagsDatabase = __decorate([
     (0, common_1.Injectable)()
 ], TagsDatabase);
 exports.TagsDatabase = TagsDatabase;
+//# sourceMappingURL=index.js.map

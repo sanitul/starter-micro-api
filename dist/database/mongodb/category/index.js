@@ -88,3 +88,4 @@ CategoryDatabase = __decorate([
     (0, common_1.Injectable)()
 ], CategoryDatabase);
 exports.CategoryDatabase = CategoryDatabase;
+//# sourceMappingURL=index.js.map

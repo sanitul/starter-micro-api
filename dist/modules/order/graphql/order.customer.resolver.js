@@ -73,3 +73,4 @@ CustomerOrderResolver = __decorate([
     __metadata("design:paramtypes", [customer_service_1.OrderCustomerService])
 ], CustomerOrderResolver);
 exports.CustomerOrderResolver = CustomerOrderResolver;
+//# sourceMappingURL=order.customer.resolver.js.map

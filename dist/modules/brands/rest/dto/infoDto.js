@@ -53,3 +53,4 @@ __decorate([
     __metadata("design:type", Array)
 ], InfoDto.prototype, "pageSizeOptions", void 0);
 exports.InfoDto = InfoDto;
+//# sourceMappingURL=infoDto.js.map

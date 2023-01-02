@@ -211,3 +211,4 @@ WishListResponseWithMessage = __decorate([
     (0, graphql_1.ObjectType)()
 ], WishListResponseWithMessage);
 exports.WishListResponseWithMessage = WishListResponseWithMessage;
+//# sourceMappingURL=wishlist.model.js.map

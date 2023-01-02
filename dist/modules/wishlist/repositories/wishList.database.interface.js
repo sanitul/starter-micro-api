@@ -14,3 +14,4 @@ IWishListDatabase = __decorate([
     (0, common_1.Injectable)()
 ], IWishListDatabase);
 exports.IWishListDatabase = IWishListDatabase;
+//# sourceMappingURL=wishList.database.interface.js.map

@@ -55,3 +55,4 @@ __decorate([
     __metadata("design:type", customer_dto_1.CustomerInformationDto)
 ], DeleteCustomerAddressSuccessResponseDto.prototype, "data", void 0);
 exports.DeleteCustomerAddressSuccessResponseDto = DeleteCustomerAddressSuccessResponseDto;
+//# sourceMappingURL=deleteCustomerAddress.js.map

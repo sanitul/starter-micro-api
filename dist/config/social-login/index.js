@@ -11,3 +11,4 @@ exports.socialLoginConfig = {
     socialPassword: SOCIAL_PASSWORD || 'password',
     originUrl: ORIGIN_URL || 'http://localhost:5000',
 };
+//# sourceMappingURL=index.js.map

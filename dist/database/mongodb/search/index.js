@@ -18,3 +18,4 @@ ProductSearchDatabase = __decorate([
     (0, common_1.Injectable)()
 ], ProductSearchDatabase);
 exports.ProductSearchDatabase = ProductSearchDatabase;
+//# sourceMappingURL=index.js.map

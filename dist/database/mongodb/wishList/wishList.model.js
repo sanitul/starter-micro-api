@@ -23,3 +23,4 @@ const WishListSchema = new mongoose_1.Schema({
 });
 const WishListModel = (0, mongoose_1.model)('wishList', WishListSchema);
 exports.WishListModel = WishListModel;
+//# sourceMappingURL=wishList.model.js.map

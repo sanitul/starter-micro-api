@@ -29,3 +29,4 @@ ProductModule = __decorate([
     })
 ], ProductModule);
 exports.ProductModule = ProductModule;
+//# sourceMappingURL=product.rest.module.js.map

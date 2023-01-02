@@ -82,3 +82,4 @@ __decorate([
     __metadata("design:type", CustomerForgotPasswordSuccessMessage)
 ], CustomerForgotPasswordSuccessResponseDto.prototype, "data", void 0);
 exports.CustomerForgotPasswordSuccessResponseDto = CustomerForgotPasswordSuccessResponseDto;
+//# sourceMappingURL=forgotPassword.dto.js.map

@@ -19,3 +19,4 @@ exports.RequestCategory = RequestCategory;
 class responseCategory {
 }
 exports.responseCategory = responseCategory;
+//# sourceMappingURL=category.js.map

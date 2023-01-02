@@ -5,3 +5,4 @@ const { PHONE_NUMBER_REGION } = process.env;
 exports.regexConfig = {
     phone: PHONE_NUMBER_REGION || 'BD'
 };
+//# sourceMappingURL=index.js.map

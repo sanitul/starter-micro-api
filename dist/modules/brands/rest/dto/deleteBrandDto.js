@@ -39,3 +39,4 @@ __decorate([
     __metadata("design:type", brandDto_1.BrandDto)
 ], DeleteBrandSuccessResponseDto.prototype, "data", void 0);
 exports.DeleteBrandSuccessResponseDto = DeleteBrandSuccessResponseDto;
+//# sourceMappingURL=deleteBrandDto.js.map

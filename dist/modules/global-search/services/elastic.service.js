@@ -72,3 +72,4 @@ ElasticService = __decorate([
         elastic_helper_1.ElasticHelperService])
 ], ElasticService);
 exports.ElasticService = ElasticService;
+//# sourceMappingURL=elastic.service.js.map

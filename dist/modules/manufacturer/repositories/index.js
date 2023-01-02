@@ -40,3 +40,4 @@ ManufacturerRepository = __decorate([
     __metadata("design:paramtypes", [manufacturer_database_interface_1.IManufacturerDatabase])
 ], ManufacturerRepository);
 exports.ManufacturerRepository = ManufacturerRepository;
+//# sourceMappingURL=index.js.map

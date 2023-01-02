@@ -36,3 +36,4 @@ TagsRepository = __decorate([
     __metadata("design:paramtypes", [tags_database_interface_1.ITagsDatabase])
 ], TagsRepository);
 exports.TagsRepository = TagsRepository;
+//# sourceMappingURL=index.js.map

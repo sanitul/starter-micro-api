@@ -59,3 +59,4 @@ __decorate([
     __metadata("design:type", Array)
 ], updateWishlistItemErrorResponseDto.prototype, "errors", void 0);
 exports.updateWishlistItemErrorResponseDto = updateWishlistItemErrorResponseDto;
+//# sourceMappingURL=updateWishlistItem.dto.js.map

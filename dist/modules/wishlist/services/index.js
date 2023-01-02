@@ -86,3 +86,4 @@ WishListService = __decorate([
         helper_interface_1.Helper])
 ], WishListService);
 exports.WishListService = WishListService;
+//# sourceMappingURL=index.js.map

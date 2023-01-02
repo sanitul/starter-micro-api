@@ -34,3 +34,4 @@ const ResolveGraphqlModule = () => {
     ];
 };
 exports.ResolveGraphqlModule = ResolveGraphqlModule;
+//# sourceMappingURL=graphql.module.resolver.js.map

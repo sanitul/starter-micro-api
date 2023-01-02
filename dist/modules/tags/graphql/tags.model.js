@@ -81,3 +81,4 @@ TagsResponse = __decorate([
     (0, graphql_1.ObjectType)()
 ], TagsResponse);
 exports.TagsResponse = TagsResponse;
+//# sourceMappingURL=tags.model.js.map

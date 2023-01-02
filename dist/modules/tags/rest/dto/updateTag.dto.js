@@ -74,3 +74,4 @@ __decorate([
     __metadata("design:type", Array)
 ], UpdateTagErrorResponseDto.prototype, "errors", void 0);
 exports.UpdateTagErrorResponseDto = UpdateTagErrorResponseDto;
+//# sourceMappingURL=updateTag.dto.js.map

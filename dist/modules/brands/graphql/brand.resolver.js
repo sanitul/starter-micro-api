@@ -78,3 +78,4 @@ BrandResolver = __decorate([
     __metadata("design:paramtypes", [services_1.BrandService])
 ], BrandResolver);
 exports.BrandResolver = BrandResolver;
+//# sourceMappingURL=brand.resolver.js.map

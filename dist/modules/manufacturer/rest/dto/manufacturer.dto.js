@@ -60,3 +60,4 @@ __decorate([
     __metadata("design:type", manufacturerSeo_dto_1.ManufacturerSeoDto)
 ], ManufacturerDto.prototype, "seo", void 0);
 exports.ManufacturerDto = ManufacturerDto;
+//# sourceMappingURL=manufacturer.dto.js.map

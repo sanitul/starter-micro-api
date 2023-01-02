@@ -14,3 +14,4 @@ ITagsDatabase = __decorate([
     (0, common_1.Injectable)()
 ], ITagsDatabase);
 exports.ITagsDatabase = ITagsDatabase;
+//# sourceMappingURL=tags.database.interface.js.map

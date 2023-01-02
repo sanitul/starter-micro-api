@@ -43,3 +43,4 @@ BrandRepository = __decorate([
     __metadata("design:paramtypes", [brand_database_interface_1.IBrandDatabase])
 ], BrandRepository);
 exports.BrandRepository = BrandRepository;
+//# sourceMappingURL=index.js.map

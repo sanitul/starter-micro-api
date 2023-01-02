@@ -7,3 +7,4 @@ exports.CustomerAddress = CustomerAddress;
 class Customer {
 }
 exports.Customer = Customer;
+//# sourceMappingURL=customer.js.map

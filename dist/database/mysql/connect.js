@@ -22,3 +22,4 @@ const connect = async () => {
     return sequelize;
 };
 exports.connect = connect;
+//# sourceMappingURL=connect.js.map

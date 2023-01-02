@@ -97,3 +97,4 @@ const CategorySchema = new mongoose_1.Schema({
 });
 const CategoryModel = (0, mongoose_1.model)('Category', CategorySchema);
 exports.CategoryModel = CategoryModel;
+//# sourceMappingURL=category.model.js.map

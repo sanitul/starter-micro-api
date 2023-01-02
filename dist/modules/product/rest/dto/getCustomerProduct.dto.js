@@ -53,3 +53,4 @@ __decorate([
     __metadata("design:type", customerProduct_dto_1.CustomerProductDto)
 ], GetCustomerProductSuccessResponseDto.prototype, "data", void 0);
 exports.GetCustomerProductSuccessResponseDto = GetCustomerProductSuccessResponseDto;
+//# sourceMappingURL=getCustomerProduct.dto.js.map

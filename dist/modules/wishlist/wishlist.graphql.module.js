@@ -30,3 +30,4 @@ WishListModule = __decorate([
     })
 ], WishListModule);
 exports.WishListModule = WishListModule;
+//# sourceMappingURL=wishlist.graphql.module.js.map

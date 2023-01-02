@@ -77,3 +77,4 @@ CompareTestController = __decorate([
     __metadata("design:paramtypes", [test_service_1.CompareTestService])
 ], CompareTestController);
 exports.CompareTestController = CompareTestController;
+//# sourceMappingURL=test.controller.js.map

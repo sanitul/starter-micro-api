@@ -9,3 +9,4 @@ exports.User = (0, common_1.createParamDecorator)(async (data, context) => {
         ? await graphql_1.GqlExecutionContext.create(context).getContext().req.user
         : await context.switchToHttp().getRequest().user;
 });
+//# sourceMappingURL=auth.decorator.js.map

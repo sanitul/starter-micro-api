@@ -65,3 +65,4 @@ __decorate([
     __metadata("design:type", Array)
 ], GetAllProductsSuccessResponseDto.prototype, "data", void 0);
 exports.GetAllProductsSuccessResponseDto = GetAllProductsSuccessResponseDto;
+//# sourceMappingURL=getAllProducts.dto.js.map

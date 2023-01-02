@@ -25,3 +25,4 @@ const SwaggerConfig = (app) => {
     });
 };
 exports.SwaggerConfig = SwaggerConfig;
+//# sourceMappingURL=swagger.init.js.map

@@ -118,3 +118,4 @@ BrandService = __decorate([
     __metadata("design:paramtypes", [index_1.BrandRepository, helper_interface_1.Helper])
 ], BrandService);
 exports.BrandService = BrandService;
+//# sourceMappingURL=index.js.map

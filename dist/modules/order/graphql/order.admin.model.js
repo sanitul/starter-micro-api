@@ -282,3 +282,4 @@ OrderListResponse = __decorate([
     (0, graphql_1.ObjectType)({ description: 'All Order List Response' })
 ], OrderListResponse);
 exports.OrderListResponse = OrderListResponse;
+//# sourceMappingURL=order.admin.model.js.map

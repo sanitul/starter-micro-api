@@ -30,3 +30,4 @@ BrandModule = __decorate([
     })
 ], BrandModule);
 exports.BrandModule = BrandModule;
+//# sourceMappingURL=brand.graphql.module.js.map

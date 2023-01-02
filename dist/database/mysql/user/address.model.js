@@ -58,3 +58,4 @@ AddressModel = __decorate([
     })
 ], AddressModel);
 exports.default = AddressModel;
+//# sourceMappingURL=address.model.js.map

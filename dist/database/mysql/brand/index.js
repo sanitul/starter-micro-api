@@ -63,3 +63,4 @@ BrandDatabase = __decorate([
     (0, common_1.Injectable)()
 ], BrandDatabase);
 exports.BrandDatabase = BrandDatabase;
+//# sourceMappingURL=index.js.map

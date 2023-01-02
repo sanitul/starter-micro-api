@@ -29,3 +29,4 @@ CompareModule = __decorate([
     })
 ], CompareModule);
 exports.CompareModule = CompareModule;
+//# sourceMappingURL=compare.rest.module.js.map

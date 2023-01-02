@@ -5,3 +5,4 @@ const { ELASTICSEARCH_NODE } = process.env;
 exports.searchConfig = {
     node: ELASTICSEARCH_NODE || 'http://localhost:9200'
 };
+//# sourceMappingURL=index.js.map

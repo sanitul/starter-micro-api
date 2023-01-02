@@ -54,3 +54,4 @@ __decorate([
     __metadata("design:type", Count)
 ], GetProductCountSuccessResponseDto.prototype, "data", void 0);
 exports.GetProductCountSuccessResponseDto = GetProductCountSuccessResponseDto;
+//# sourceMappingURL=getProductCount.dto.js.map

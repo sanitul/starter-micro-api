@@ -29,3 +29,4 @@ CustomerModule = __decorate([
     })
 ], CustomerModule);
 exports.CustomerModule = CustomerModule;
+//# sourceMappingURL=customer.rest.module.js.map

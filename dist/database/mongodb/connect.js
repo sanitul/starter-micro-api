@@ -4,7 +4,6 @@ exports.connect = void 0;
 const database_1 = require("../../config/database");
 const Mongoose = require("mongoose");
 async function connect() {
-    console.log('dbConfig.mongodb.URI', database_1.dbConfig.mongodb.URI);
     await Mongoose.connect(database_1.dbConfig.mongodb.URI);
     const { connection } = Mongoose;
     connection.on('connected', () => {
@@ -21,3 +20,4 @@ async function connect() {
     });
 }
 exports.connect = connect;
+//# sourceMappingURL=connect.js.map

@@ -24,7 +24,6 @@ let ProductRepository = class ProductRepository {
         return await this.db.findAllProducts(query, skip, limit, price, orderBy);
     }
     async getAllConditionalProducts(query, price, slug, orderBy, skip, limit) {
-        console.log('getAllConditionalProducts query time');
         return await this.db.getAllConditionalProducts(query, price, slug, orderBy, skip, limit);
     }
     async createProduct(product) {
@@ -61,3 +60,4 @@ ProductRepository = __decorate([
     __metadata("design:paramtypes", [product_database_interface_1.IProductDatabase])
 ], ProductRepository);
 exports.ProductRepository = ProductRepository;
+//# sourceMappingURL=index.js.map

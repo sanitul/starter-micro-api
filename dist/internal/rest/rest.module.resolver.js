@@ -37,3 +37,4 @@ const ResolveRestModule = () => {
     ];
 };
 exports.ResolveRestModule = ResolveRestModule;
+//# sourceMappingURL=rest.module.resolver.js.map

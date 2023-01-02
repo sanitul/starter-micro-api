@@ -30,3 +30,4 @@ CustomerModule = __decorate([
     })
 ], CustomerModule);
 exports.CustomerModule = CustomerModule;
+//# sourceMappingURL=customer.graphql.module.js.map

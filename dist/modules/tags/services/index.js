@@ -61,3 +61,4 @@ TagsService = __decorate([
     __metadata("design:paramtypes", [repositories_1.TagsRepository, helper_interface_1.Helper])
 ], TagsService);
 exports.TagsService = TagsService;
+//# sourceMappingURL=index.js.map

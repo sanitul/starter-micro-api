@@ -207,3 +207,4 @@ __decorate([
     __metadata("design:type", Array)
 ], CustomerProductDto.prototype, "categories", void 0);
 exports.CustomerProductDto = CustomerProductDto;
+//# sourceMappingURL=customerProduct.dto.js.map

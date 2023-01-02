@@ -163,3 +163,4 @@ ManufacturerController = __decorate([
     __metadata("design:paramtypes", [manufacturer_service_1.ManufacturerService])
 ], ManufacturerController);
 exports.ManufacturerController = ManufacturerController;
+//# sourceMappingURL=manufacturer.controller.js.map

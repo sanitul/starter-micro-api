@@ -179,3 +179,4 @@ __decorate([
     __metadata("design:type", Array)
 ], WishlistDto.prototype, "items", void 0);
 exports.WishlistDto = WishlistDto;
+//# sourceMappingURL=wishlist.dto.js.map

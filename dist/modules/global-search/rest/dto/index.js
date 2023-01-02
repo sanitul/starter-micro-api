@@ -7,3 +7,4 @@ exports.ISearchProductResponse = ISearchProductResponse;
 class ISuggestedProductResponse {
 }
 exports.ISuggestedProductResponse = ISuggestedProductResponse;
+//# sourceMappingURL=index.js.map

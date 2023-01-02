@@ -19,3 +19,4 @@ function ApiFile(fieldName = 'file', required = false, localOptions) {
     }));
 }
 exports.ApiFile = ApiFile;
+//# sourceMappingURL=file.decorator.js.map

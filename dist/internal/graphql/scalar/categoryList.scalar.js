@@ -30,3 +30,4 @@ exports.ObjectScalarType = new graphql_1.GraphQLScalarType({
         }
     },
 });
+//# sourceMappingURL=categoryList.scalar.js.map

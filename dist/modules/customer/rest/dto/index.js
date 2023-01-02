@@ -20,3 +20,4 @@ __exportStar(require("./addCustomerNewAddress.dto"), exports);
 __exportStar(require("./updateCustomerAddress.dto"), exports);
 __exportStar(require("./deleteCustomerAddress"), exports);
 __exportStar(require("./updateCustomer.dto"), exports);
+//# sourceMappingURL=index.js.map

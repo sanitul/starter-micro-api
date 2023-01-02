@@ -122,3 +122,4 @@ OrderCustomerController = __decorate([
     __metadata("design:paramtypes", [customer_service_1.OrderCustomerService])
 ], OrderCustomerController);
 exports.OrderCustomerController = OrderCustomerController;
+//# sourceMappingURL=customer.controller.js.map

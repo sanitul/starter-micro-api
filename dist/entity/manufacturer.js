@@ -10,3 +10,4 @@ exports.SEO = SEO;
 class ManufacturersQuery {
 }
 exports.ManufacturersQuery = ManufacturersQuery;
+//# sourceMappingURL=manufacturer.js.map

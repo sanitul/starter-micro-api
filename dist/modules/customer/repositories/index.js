@@ -60,3 +60,4 @@ CustomerRepository = __decorate([
     __metadata("design:paramtypes", [customer_database_interface_1.ICustomerDatabase])
 ], CustomerRepository);
 exports.CustomerRepository = CustomerRepository;
+//# sourceMappingURL=index.js.map

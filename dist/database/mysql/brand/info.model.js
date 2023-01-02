@@ -65,3 +65,4 @@ InfoModel = __decorate([
     })
 ], InfoModel);
 exports.default = InfoModel;
+//# sourceMappingURL=info.model.js.map

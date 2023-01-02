@@ -105,3 +105,4 @@ WishListResolver = __decorate([
         helper_interface_1.Helper])
 ], WishListResolver);
 exports.WishListResolver = WishListResolver;
+//# sourceMappingURL=wishlist.resolver.js.map
